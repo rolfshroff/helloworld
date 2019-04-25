@@ -1,1 +1,1 @@
-$Conn = Get-AutomationConnection -Name AzureRunAsConnection 
+# $Conn = Get-AutomationConnection -Name AzureRunAsConnection 
